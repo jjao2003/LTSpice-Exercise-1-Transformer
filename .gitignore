@@ -1,0 +1,7 @@
+# LTSpice temporary and simulation files
+*.raw
+*.log
+*.net
+*.op.raw
+*.bak
+*.txt
